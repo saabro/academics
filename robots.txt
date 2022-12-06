@@ -1,3 +1,3 @@
 User-agent: *
 
-Sitemap: https://saabro.github.io/sitemap.xml
+Sitemap: https://saabro.github.io/academics/sitemap.xml
