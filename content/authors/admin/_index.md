@@ -80,5 +80,9 @@ email: ''
 highlight_name: true
 ---
 
-Alice Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+About me
+
+Dr. Ali is a Senior Researcher at a reknowned Public Sector Organization in Pakistan. He is also a Senior Member IEEE and International Association of Electrical, Electronic and Energy Engineering (IAEEEE). He received the Ph.D. degree under the supervision of Prof. Ilyoung Chong from the Department of Information Communications Engineering, Hankuk University of Foreign Studies, South Korea. He did the MS in Computer Science from the Department of Computer Sciences, National University of Computer Sciences, Karachi, Pakistan.
+
+Dr. Ali's research focuses on the Industrial Internet of things (IIoT)/Cyber Physical Systems, IoT-enabled Context-aware data processing, Semantic reasoning, and Artificial Intelligence. Dr. Ali has been regularly invited to conduct peer review for authoritative journals and conferences in the field, including the IEEE Access, Intelligent Automation & Soft Computing, the Journal of Flow Visualization and Image Processing, the Journal of Sustainable Energy Technologies and Assessments, and International Conference on Sustainable Technologies for Industry 4.0.  
 {style="text-align: justify;"}
